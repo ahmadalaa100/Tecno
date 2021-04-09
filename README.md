@@ -1,1 +1,1 @@
-# Tecno
+# Tecno website for graduation project
