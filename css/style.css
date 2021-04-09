@@ -5,6 +5,11 @@ Template 2085 Neuron
 http://www.tooplate.com/view/2085-neuron
 
 */
+@font-face {
+  font-family: 'Changa', sans-serif;
+  src: url(../fonts/static/Changa-Light.ttf);
+ 
+}
 
 body {
 		background: #ffffff;
@@ -288,8 +293,11 @@ a:hover, a:active, a:focus {
   background: url('../images/about-bg.jpg') no-repeat;
 }
 
-.main-single-post {
-  background: url('../images/single-post-bg.jpg') no-repeat;
+.one  {
+  background: url('../images/team.png') no-repeat;
+}
+.two{
+  background: url('../images/mod.png') no-repeat;
 }
 
 .main-gallery {
